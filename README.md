@@ -336,3 +336,5 @@ discuss potential changes.
 ## Credits
 
 * README and starter code developed by [Sumner Evans](https://sumnerevans.com).
+* Thanks to [Adam Sandstedt](https://github.com/AdamSandstedt) for testing the
+  assignment and creating most of the input-output pairs.
