@@ -64,7 +64,7 @@ def run_sim(args, inputfile):
 print(f"{bcolors.BOLD}Checking ANT, AT, and BTFNT functionality.{bcolors.ENDC}")
 
 test_indices = {"ant": 1, "at": 1, "btfnt": 1, "ltg": 1, "ltl": 1, "2bg": 1, "2bl": 1}
-max_scores = {"ant": 1, "at": 1, "btfnt": 1, "ltg": 1, "ltl": 1, "2bg": 1, "2bl": 1}
+max_scores = {"ant": 1, "at": 1, "btfnt": 4, "ltg": 5, "ltl": 7, "2bg": 5, "2bl": 7}
 
 # Iterate through all of the inputs, and for each of the corresponding "expected" files,
 # run the simulation with the parameters specified by the expected fie.
