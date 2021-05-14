@@ -40,8 +40,6 @@ struct branch_predictor {
     //  * branch_predictor: the instance of branch_predictor to clean up.
     //  * address: the branch instruction address.
     //  * address: the actual direction that the branch went.
-    //
-    // Returns (enum branch_direction): the predicted branch direction
     void (*handle_result)(struct branch_predictor *branch_predictor, uint32_t address,
                           enum branch_direction branch_direction);
 
