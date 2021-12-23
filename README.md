@@ -168,17 +168,17 @@ environment variables from the Nix shell to your current environment when you
 
 ### Downloading the Source
 
-If you want to use git on this project, **please use a *private* repo**. Then,
-run the following commands to clone the starter code and set the `origin` to
-your repo:
+If you want to use git on this project, **please use a *private* repo**. You can
+either fork this repo to a private repository on GitHub, or you can run the
+following commands to clone the starter code and set the `origin` to your repo:
 ```
-git clone https://git.sr.ht/~sumner/aca-project3
+git clone https://github.com/csci564/project3.git
 git remote set-url origin <your-private-repo-url>
 ```
 
 Alternatively, if you don't want to use Git, you can download a TAR.GZ of the
 source from the following URL:
-http://git.sr.ht/~sumner/aca-project3/archive/master.tar.gz
+https://github.com/csci564/project3/archive/refs/heads/master.tar.gz
 
 ### Building and Running
 
@@ -325,13 +325,7 @@ com`.
 ## Contributing
 
 Contributions to this project description or to the starter code are welcome!
-
-If you find an issue with the project description or to the starter code or want
-to suggest an improvement to it, please submit a patch via
-[git-send-email](https://git-send-email.io) to the
-[~sumner/public-inbox](https://lists.sr.ht/~sumner/public-inbox) mailing list or
-send the patch directly to me. You can also send an email to the mailing list to
-discuss potential changes.
+Just submit a PR or create an issue.
 
 ## Credits
 
