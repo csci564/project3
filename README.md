@@ -319,8 +319,8 @@ OUTPUT BRANCH PREDICTION RATE 0.92000000
 ## Other Instructors
 
 You are free to use or adapt this project for your course. If you are interested
-in my solution or autograder code, please email me at `me [at] sumnerevans [dot]
-com`.
+in my solution or autograder code, please email me at
+`teaching [at] sumnerevans [dot] com`.
 
 ## Contributing
 
