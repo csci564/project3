@@ -54,7 +54,7 @@ prediction strategies.
 ### Branch Predictor Behavior
 
 The following describes how the simulation must behave. *Note that some of this
-functionality is already implemented by the starer code.*
+functionality is already implemented by the starter code.*
 
 **Assumptions:**
 
